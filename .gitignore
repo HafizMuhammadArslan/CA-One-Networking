@@ -1,0 +1,11 @@
+# Terraform directories and files
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Executables
+*.exe
+
+# Other common
+.DS_Store
+.env
